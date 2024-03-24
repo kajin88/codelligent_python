@@ -11,3 +11,5 @@ This repository holds all the exercise files, which are developed during the Pyt
   * [Dictionaries](https://github.com/kajin88/codelligent_python/blob/8fd2338efd44cf4684ebcf059f30f8bc517156e6/2.%20Collections/3.%20dictionary.py)
   * [Sets](https://github.com/kajin88/codelligent_python/blob/1229fd4645fa4c29e1f15efb37c45afb7bfb21a9/2.%20Collections/4.%20set.py)
   * [Mixed Collections](https://github.com/kajin88/codelligent_python/blob/508657a2b2f8a4d6afb5ac4fd231df482fb7c717/2.%20Collections/5.%20mixedCollections.py) (An example to mix all type of collections)
+* Functions in Python
+  * [Basics of Functions](https://github.com/kajin88/codelligent_python/blob/d6049c62adfb5986324b7fe8830678fa94f6983a/3.%20Functions/functions1.py)
