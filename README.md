@@ -16,5 +16,5 @@ This repository holds all the exercise files, which are developed during the Pyt
   * [Arbitrary Arguments and Arbitrary Keyword Arguments](https://github.com/kajin88/codelligent_python/blob/3d1e5de67d9a9f93bbf2142b327bb421d501b877/3.%20Functions/functions2.py)
 * [Exception Handling in Python](https://github.com/kajin88/codelligent_python/blob/a355361b9e8b41152553751801562a72fe961347/4.%20Exception%20Handling/exceptionHandling.py)
 * Modules and Packages in Python
-  * [Demos code for Modules](https://github.com/kajin88/codelligent_python/tree/7ec80f1c49fdcc1b01702a636e227ab6fdd8e12d/5.%20Modules%20and%20Packages/moduledemo)
-  * [Demos code for Package](https://github.com/kajin88/codelligent_python/tree/7ec80f1c49fdcc1b01702a636e227ab6fdd8e12d/5.%20Modules%20and%20Packages/packagedemo)
+  * [Modules](https://github.com/kajin88/codelligent_python/tree/7ec80f1c49fdcc1b01702a636e227ab6fdd8e12d/5.%20Modules%20and%20Packages/moduledemo)
+  * [Packages](https://github.com/kajin88/codelligent_python/tree/7ec80f1c49fdcc1b01702a636e227ab6fdd8e12d/5.%20Modules%20and%20Packages/packagedemo)
