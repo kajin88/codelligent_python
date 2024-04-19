@@ -18,3 +18,5 @@ This repository holds all the exercise files, which are developed during the Pyt
 * Modules and Packages in Python
   * [Modules](https://github.com/kajin88/codelligent_python/tree/7ec80f1c49fdcc1b01702a636e227ab6fdd8e12d/5.%20Modules%20and%20Packages/moduledemo)
   * [Packages](https://github.com/kajin88/codelligent_python/tree/7ec80f1c49fdcc1b01702a636e227ab6fdd8e12d/5.%20Modules%20and%20Packages/packagedemo)
+* Object Oriented Programmin in Python
+  * [Simple Class and Object](https://github.com/kajin88/codelligent_python/blob/166af089495851f592d0dfbc1a6108036b35df25/6.%20Classes%20and%20Objects/simpleClass.py)
